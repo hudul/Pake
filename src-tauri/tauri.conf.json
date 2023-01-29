@@ -1,16 +1,16 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "Primecare",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://admin.primecare.top/",
         "transparent": true,
-        "fullscreen": false,
-        "width": 1200,
-        "height": 780,
+        "fullscreen": true,
+        "width": 1920,
+        "height": 1080,
         "resizable": true
       }
     ],
